@@ -167,7 +167,7 @@ Remember to commit and push your changes to this repository when you're done.
 
 - Ensure you have the necessary Unity version installed for compatibility.
   
-- Default version: Unity 2021.3.21f1
+- Default version: Unity 2021.3.23f1
   
 - Sometimes, Unity might prompt you to upgrade the project to a newer version if the Unity versions differ between your local machine and the project
 
@@ -175,6 +175,5 @@ Remember to commit and push your changes to this repository when you're done.
 
 ---
 
-After importing the project drag and drop the environment folder into your scene window
-Following these steps should allow you to successfully import Unity projects from GitHub into your local Unity environment for development and collaboration.
+After importing the project drag and drop the environment folder into your scene window. Following these steps should allow you to successfully import Unity projects from GitHub into your local Unity environment for development and collaboration.
 
